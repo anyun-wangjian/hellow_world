@@ -3,4 +3,4 @@ info:
   from: git-repo
   version: 1.0.0
   state: start
-from: github-dev-6.0
+from: github-dev-7.0
